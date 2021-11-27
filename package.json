@@ -1,22 +1,22 @@
 {
   "name": "inspectre-backend",
   "version": "1.0.0",
-  "description": "## Team:  * Raajvardhan C",
+  "description": "## Team:  * Andrew Kim * Brannon Starnes * Min Xie * Raaj Vardhan * Scott Lease",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/the-placeholders/inspectre-backend.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/the-placeholders/inspectre-backend/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/the-placeholders/inspectre-backend#readme",
   "dependencies": {
     "@auth0/auth0-react": "^1.8.0",
     "axios": "^0.24.0",
